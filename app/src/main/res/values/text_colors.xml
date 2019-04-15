@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_options">
+        <item>@string/color_red</item>
+        <item>@string/color_orange</item>
+        <item>@string/color_yellow</item>
+    </string-array>
+
+    <integer-array name="color_values">
+        <item>@color/color_red</item>
+        <item>@color/colorAccent</item>
+        <item>@color/color_yellow</item>
+    </integer-array>
+    <string name="color_orange">Оранжевый</string>
+</resources>

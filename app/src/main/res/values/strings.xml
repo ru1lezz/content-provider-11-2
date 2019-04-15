@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NoteApplication</string>
+    <string name="date">Date</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="hint_note_content">Content</string>
+    <string name="hint_note_date">Date</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="Calendar">Calendar</string>
+    <string name="apply">apply</string>
+    <string name="color_red">Красный</string>
+    <string name="color_blue">Синий</string>
+    <string name="color_yellow">Желтый</string>
+    <string name="settings">Настройки</string>
+</resources>
